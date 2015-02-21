@@ -28,5 +28,6 @@ Saulo Albert Pereira Pinto;
 	- Selecionar mesa [Mobile]
 	- Associar token à mesa [Mobile]
 	- Visualizar cardápio [Mobie]
+	- Associar token à mesa [WEB]
 
 O Szone é um sistema de gerenciamento de pedidos de um restaurante. Ele é capaz de auxiliar o garçon quanto ao pedido do cliente e auxiliar o cliente quando aos produtos que deseja pedir.
