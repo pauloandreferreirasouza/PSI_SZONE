@@ -26,7 +26,7 @@ Paulo André Feirreira de Souza;
 	
 Elionay Luz Barroso;
 	- Manter pedidos [Mobile]
-	- Manter pedidos [Mobile]
+	- Manter pedidos [WEB]
 	- Manter comanda [WEB]
 	- 
 	
