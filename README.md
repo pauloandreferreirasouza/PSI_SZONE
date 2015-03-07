@@ -20,7 +20,7 @@ Golbery Olveira dos Santos;
 Paulo André Feirreira de Souza;
 	- Manter mesas [WEB]
 	- Manter funcionário [WEB]
-	- Cadastrar formas de pagamento [WEB]
+	- Visualizar ranking dos funcionários [WEB]
 	- Área do cliente [Mobile]
 	- Pedir para viagem [Mobie]
 	- Finalizar comanda [Mobile]
