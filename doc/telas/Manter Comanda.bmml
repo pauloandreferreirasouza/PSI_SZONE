@@ -1,0 +1,76 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1426" measuredH="500" mockupW="1395" mockupH="500">
+  <controls>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="736" y="0" w="690" h="500" measuredW="450" measuredH="400" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>S%20ZONE%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::SubTitle" x="948" y="93" w="-1" h="-1" measuredW="280" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Visualiza%E7%E3o%20de%20comanda</text>
+      </controlProperties>
+    </control>
+    <control controlID="107" controlTypeID="com.balsamiq.mockups::Button" x="1098" y="418" w="-1" h="-1" measuredW="60" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Baixar</text>
+      </controlProperties>
+    </control>
+    <control controlID="108" controlTypeID="com.balsamiq.mockups::Button" x="1190" y="418" w="-1" h="-1" measuredW="57" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Voltar</text>
+      </controlProperties>
+    </control>
+    <control controlID="113" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="31" y="0" w="690" h="500" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>S%20ZONE%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="114" controlTypeID="com.balsamiq.mockups::MenuBar" x="71" y="135" w="609" h="29" measuredW="360" measuredH="29" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Visuliazar%2C%20Finalizar%2C%20Baixar%2C%20Cancelar%2C%20Imprimir</text>
+      </controlProperties>
+    </control>
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::DataGrid" x="71" y="168" w="611" h="211" measuredW="396" measuredH="201" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>N%BA%20Comanda%20%5E%2C%20Cliente%20%5Ev%2C%20Mesa%2C%20%20Token%20v%2C%20Status%0A%231231123%2C%20Alberto%20Santos%2C%2001%2C%201.2%2C%20Baixado%20%0A%231231123%2C%20Renan%20Martines%2C%2001%2C%201.2%2C%20Finalizado%20%0A%231231123%2C%20Laura%20Sobral%2C%2001%2C%201.3%2C%20Aberto%20%0A%231231123%2C%20Vanessa%20Silza%2C%2001%2C%201.4%2C%20Aberto%20%0A%231231123%2C%20Carlos%20Matuto%2C%2005%2C%205.1%2C%20Cancelado%20%0A%231231123%2C%20Jim%20Run%20Doot%2C%2006%2C%206.3%2C%20Aberto%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="116" controlTypeID="com.balsamiq.mockups::TextInput" x="71" y="384" w="109" h="-1" measuredW="74" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>focused</state>
+        <text>Pesquisar</text>
+      </controlProperties>
+    </control>
+    <control controlID="117" controlTypeID="com.balsamiq.mockups::SubTitle" x="243" y="93" w="-1" h="-1" measuredW="201" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Gerenciar%20Pedidos</text>
+      </controlProperties>
+    </control>
+    <control controlID="118" controlTypeID="com.balsamiq.mockups::SubTitle" x="875" y="336" w="132" h="-1" measuredW="102" measuredH="19" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>16</size>
+        <text>Total%20%3D%20%244%2C40</text>
+      </controlProperties>
+    </control>
+    <control controlID="119" controlTypeID="com.balsamiq.mockups::DataGrid" x="856" y="125" w="450" h="196" measuredW="427" measuredH="171" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <text>%20%2C%20ITEM%20PEDIDO%20%2C%20QTDE%20%2C%20Status%20%2C%20VALOR%0A%5B%5D%2C%20Mussarela%5CMuito%20queijo%2C%201%20%2C%20Finalizando%20%2C%20%241.10%0A%5B%5D%2C%20Romeu%20e%20Julieta%5CMuita%20folhinha%2C%201%20%2C%20Ja%20chega%20a%ED%2C%20%241.10%0A%5B%5D%2C%20Americano%5CSem%20nada%2C%201%20%2C%20Na%20fila%20%2C%20%241.10%0A%5B-%5D%2C%20Mix%20Argentino%5CHAHAHAHA%2C%201%20%2C%20Aberto%20%2C%20%241.10%0A%20%0A%7B0R%2C%2065L%2C%200C%2C%200C%2C%200C%7D</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="120" controlTypeID="com.balsamiq.mockups::SubTitle" x="1155" y="336" w="132" h="-1" measuredW="88" measuredH="19" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>16</size>
+        <text>N%BA%3A%20%23121277</text>
+      </controlProperties>
+    </control>
+    <control controlID="121" controlTypeID="com.balsamiq.mockups::Label" x="859" y="370" w="-1" h="-1" measuredW="129" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cliente%3A%20Jim%20Run%20Doot</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

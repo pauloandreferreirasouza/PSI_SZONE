@@ -1,0 +1,312 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="2529" measuredH="947" mockupW="2509" mockupH="916">
+  <controls>
+    <control controlID="135" controlTypeID="__group__" x="651" y="31" w="616" h="916" measuredW="616" measuredH="916" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::iPad" x="0" y="0" w="-1" h="-1" measuredW="616" measuredH="916" zOrder="0" locked="false" isInGroup="135"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="202" y="158" w="212" h="-1" measuredW="204" measuredH="27" zOrder="1" locked="false" isInGroup="135">
+          <controlProperties>
+            <align>center</align>
+            <text>Adicionar%20TOKENS</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::NumericStepper" x="226" y="204" w="-1" h="-1" measuredW="41" measuredH="24" zOrder="2" locked="false" isInGroup="135">
+          <controlProperties>
+            <text>3</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::SubTitle" x="70" y="203" w="156" h="-1" measuredW="129" measuredH="27" zOrder="3" locked="false" isInGroup="135">
+          <controlProperties>
+            <align>center</align>
+            <text>Quantidade</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="85" y="243" w="459" h="172" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="135"/>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::RoundButton" x="100" y="258" w="41" h="41" measuredW="32" measuredH="32" zOrder="5" locked="false" isInGroup="135">
+          <controlProperties>
+            <text>3.1</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::RoundButton" x="156" y="258" w="41" h="41" measuredW="32" measuredH="32" zOrder="6" locked="false" isInGroup="135">
+          <controlProperties>
+            <text>3.2</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::RoundButton" x="212" y="258" w="41" h="41" measuredW="32" measuredH="32" zOrder="7" locked="false" isInGroup="135">
+          <controlProperties>
+            <text>3.3</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::RoundButton" x="268" y="258" w="41" h="41" measuredW="32" measuredH="32" zOrder="8" locked="false" isInGroup="135">
+          <controlProperties>
+            <text>3.4</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::RoundButton" x="324" y="258" w="41" h="41" measuredW="32" measuredH="32" zOrder="9" locked="false" isInGroup="135">
+          <controlProperties>
+            <text>3.5</text>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="365" y="697" w="164" h="54" measuredW="153" measuredH="27" zOrder="10" locked="false" isInGroup="135">
+          <controlProperties>
+            <menuIcon>false</menuIcon>
+            <size>16</size>
+            <text>Habilitar%20Card%E1pio</text>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::iPadPopover" x="85" y="447" w="310" h="78" measuredW="222" measuredH="187" zOrder="11" locked="false" isInGroup="135">
+          <controlProperties>
+            <text>Tokens%20sendo%20associada%20%E0%20mesa%20de%20n%BA%203</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="176" controlTypeID="__group__" x="1282" y="31" w="616" h="916" measuredW="616" measuredH="916" zOrder="2" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::iPad" x="0" y="0" w="-1" h="-1" measuredW="616" measuredH="916" zOrder="0" locked="false" isInGroup="176"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="165" y="160" w="-1" h="-1" measuredW="286" measuredH="27" zOrder="1" locked="false" isInGroup="176">
+          <controlProperties>
+            <align>center</align>
+            <text>Tela%20de%20Acesso%20do%20Cliente</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="__group__" x="165" y="243" w="194" h="102" measuredW="194" measuredH="102" zOrder="2" locked="false" isInGroup="176">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::PointyButton" x="155" y="75" w="-1" h="-1" measuredW="39" measuredH="27" zOrder="0" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderStyle>none</borderStyle>
+                <direction>center</direction>
+                <newLayout>true</newLayout>
+                <text>OK</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="0" y="75" w="-1" h="-1" measuredW="119" measuredH="27" zOrder="1" locked="false" isInGroup="2">
+              <controlProperties>
+                <borderStyle>none</borderStyle>
+                <direction>center</direction>
+                <newLayout>true</newLayout>
+                <text>Esqueci%20a%20senha</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::TextInput" x="0" y="0" w="194" h="-1" measuredW="60" measuredH="27" zOrder="2" locked="false" isInGroup="2">
+              <controlProperties>
+                <text>Usu%E1rio</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::TextInput" x="0" y="39" w="194" h="-1" measuredW="52" measuredH="27" zOrder="3" locked="false" isInGroup="2">
+              <controlProperties>
+                <text>Senha</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="165" y="431" w="194" h="54" measuredW="127" measuredH="27" zOrder="3" locked="false" isInGroup="176">
+          <controlProperties>
+            <menuIcon>false</menuIcon>
+            <size>16</size>
+            <text>Novo%20cadastro</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="165" y="501" w="194" h="54" measuredW="127" measuredH="27" zOrder="4" locked="false" isInGroup="176">
+          <controlProperties>
+            <menuIcon>false</menuIcon>
+            <size>16</size>
+            <text>N%E3o%20cadastrar</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::iPadPopover" x="97" y="603" w="422" h="148" measuredW="222" measuredH="187" zOrder="5" locked="false" isInGroup="176">
+          <controlProperties>
+            <text>Benef%EDcios%20de%20ser%20um%20cliente%20cadastrado%21%0A%20%0AB%F4nus%0APromo%E7%F5es%0AComodidades</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="203" controlTypeID="__group__" x="20" y="31" w="616" h="916" measuredW="616" measuredH="916" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="616" h="916" measuredW="616" measuredH="916" zOrder="0" locked="false" isInGroup="203">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="__group__" x="0" y="0" w="616" h="916" measuredW="616" measuredH="916" zOrder="0" locked="false" isInGroup="0">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="__group__" x="0" y="0" w="616" h="916" measuredW="616" measuredH="916" zOrder="0" locked="false" isInGroup="0">
+                  <groupChildrenDescriptors>
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPad" x="0" y="0" w="-1" h="-1" measuredW="616" measuredH="916" zOrder="0" locked="false" isInGroup="0"/>
+                  </groupChildrenDescriptors>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="219" y="160" w="178" h="-1" measuredW="176" measuredH="27" zOrder="1" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <align>center</align>
+                    <text>Adicionar%20MESA</text>
+                  </controlProperties>
+                </control>
+                <control controlID="2" controlTypeID="com.balsamiq.mockups::IconLabel" x="269" y="228" w="66" h="-1" measuredW="48" measuredH="63" zOrder="2" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <borderStyle>square</borderStyle>
+                    <state>up</state>
+                    <text>Mesa%203</text>
+                  </controlProperties>
+                </control>
+                <control controlID="3" controlTypeID="com.balsamiq.mockups::IconLabel" x="350" y="228" w="66" h="-1" measuredW="48" measuredH="63" zOrder="3" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <borderStyle>square</borderStyle>
+                    <state>up</state>
+                    <text>Mesa%204</text>
+                  </controlProperties>
+                </control>
+                <control controlID="4" controlTypeID="com.balsamiq.mockups::IconLabel" x="188" y="228" w="66" h="-1" measuredW="48" measuredH="63" zOrder="4" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <borderStyle>square</borderStyle>
+                    <state>up</state>
+                    <text>Mesa%202</text>
+                  </controlProperties>
+                </control>
+                <control controlID="5" controlTypeID="com.balsamiq.mockups::IconLabel" x="107" y="228" w="66" h="-1" measuredW="48" measuredH="63" zOrder="5" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <borderStyle>square</borderStyle>
+                    <state>up</state>
+                    <text>Mesa%201</text>
+                  </controlProperties>
+                </control>
+                <control controlID="6" controlTypeID="com.balsamiq.mockups::IconLabel" x="431" y="228" w="66" h="-1" measuredW="48" measuredH="63" zOrder="6" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <borderStyle>square</borderStyle>
+                    <state>disabled</state>
+                    <text>Mesa%205</text>
+                  </controlProperties>
+                </control>
+                <control controlID="7" controlTypeID="com.balsamiq.mockups::IconLabel" x="269" y="306" w="66" h="-1" measuredW="48" measuredH="63" zOrder="7" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <borderStyle>square</borderStyle>
+                    <state>disabled</state>
+                    <text>Mesa%208</text>
+                  </controlProperties>
+                </control>
+                <control controlID="8" controlTypeID="com.balsamiq.mockups::IconLabel" x="350" y="306" w="66" h="-1" measuredW="48" measuredH="63" zOrder="8" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <borderStyle>square</borderStyle>
+                    <state>up</state>
+                    <text>Mesa%209</text>
+                  </controlProperties>
+                </control>
+                <control controlID="9" controlTypeID="com.balsamiq.mockups::IconLabel" x="188" y="306" w="66" h="-1" measuredW="48" measuredH="63" zOrder="9" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <borderStyle>square</borderStyle>
+                    <state>up</state>
+                    <text>Mesa%207</text>
+                  </controlProperties>
+                </control>
+                <control controlID="10" controlTypeID="com.balsamiq.mockups::IconLabel" x="107" y="306" w="66" h="-1" measuredW="48" measuredH="63" zOrder="10" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <borderStyle>square</borderStyle>
+                    <state>disabled</state>
+                    <text>Mesa%206</text>
+                  </controlProperties>
+                </control>
+                <control controlID="11" controlTypeID="com.balsamiq.mockups::IconLabel" x="431" y="306" w="66" h="-1" measuredW="50" measuredH="63" zOrder="11" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <borderStyle>square</borderStyle>
+                    <state>up</state>
+                    <text>Mesa%2010</text>
+                  </controlProperties>
+                </control>
+                <control controlID="12" controlTypeID="com.balsamiq.mockups::IconLabel" x="113" y="384" w="66" h="-1" measuredW="48" measuredH="63" zOrder="12" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <borderStyle>square</borderStyle>
+                    <state>up</state>
+                    <text>Mesa%2011</text>
+                  </controlProperties>
+                </control>
+                <control controlID="13" controlTypeID="com.balsamiq.mockups::IconLabel" x="437" y="384" w="66" h="-1" measuredW="49" measuredH="63" zOrder="13" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <borderStyle>square</borderStyle>
+                    <state>up</state>
+                    <text>Mesa%2015</text>
+                  </controlProperties>
+                </control>
+                <control controlID="14" controlTypeID="com.balsamiq.mockups::IconLabel" x="269" y="384" w="66" h="-1" measuredW="50" measuredH="63" zOrder="14" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <borderStyle>square</borderStyle>
+                    <state>up</state>
+                    <text>Mesa%2013</text>
+                  </controlProperties>
+                </control>
+                <control controlID="15" controlTypeID="com.balsamiq.mockups::IconLabel" x="350" y="384" w="66" h="-1" measuredW="50" measuredH="63" zOrder="15" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <borderStyle>square</borderStyle>
+                    <state>disabled</state>
+                    <text>Mesa%2014</text>
+                  </controlProperties>
+                </control>
+                <control controlID="16" controlTypeID="com.balsamiq.mockups::IconLabel" x="188" y="384" w="66" h="-1" measuredW="50" measuredH="63" zOrder="16" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <borderStyle>square</borderStyle>
+                    <state>disabled</state>
+                    <text>Mesa%2012</text>
+                  </controlProperties>
+                </control>
+                <control controlID="17" controlTypeID="com.balsamiq.mockups::iPadPopover" x="153" y="477" w="310" h="78" measuredW="222" measuredH="187" zOrder="17" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <text>Selecione%20uma%20mesa%20dispon%EDvel%20e%20depois%20adicione%20%0ATokens%20por%20cliente.</text>
+                  </controlProperties>
+                </control>
+                <control controlID="18" controlTypeID="com.balsamiq.mockups::Button" x="368" y="697" w="164" h="54" measuredW="158" measuredH="27" zOrder="18" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <menuIcon>false</menuIcon>
+                    <size>16</size>
+                    <text>Adicionar%20TOKENS</text>
+                  </controlProperties>
+                </control>
+                <control controlID="19" controlTypeID="com.balsamiq.mockups::RedX" x="287" y="237" w="28" h="29" measuredW="240" measuredH="104" zOrder="19" locked="false" isInGroup="0"/>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="216" controlTypeID="__group__" x="1913" y="31" w="616" h="916" measuredW="616" measuredH="916" zOrder="3" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::iPad" x="0" y="0" w="-1" h="-1" measuredW="616" measuredH="916" zOrder="0" locked="false" isInGroup="216"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="223" y="162" w="-1" h="-1" measuredW="171" measuredH="27" zOrder="1" locked="false" isInGroup="216">
+          <controlProperties>
+            <align>center</align>
+            <text>%C1rea%20do%20Cliente</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::iPadPopover" x="97" y="603" w="422" h="148" measuredW="222" measuredH="187" zOrder="2" locked="false" isInGroup="216">
+          <controlProperties>
+            <text>Bem-vindo%20%E0%20sua%20%E1rea.%0A%20%0AVeja%20seu%20B%F4nus%0ANossas%20Promo%E7%F5es</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="101" y="199" w="433" h="212" measuredW="200" measuredH="212" zOrder="3" locked="false" isInGroup="216">
+          <controlProperties>
+            <text>Hist%F3rico%20de%20Pedidos%0AComandas%0AMeus%20Dados%0APromo%E7%F5es%0APontos</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="97" y="525" w="164" h="54" measuredW="92" measuredH="27" zOrder="4" locked="false" isInGroup="216">
+          <controlProperties>
+            <menuIcon>false</menuIcon>
+            <size>16</size>
+            <text>Comanda</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="336" y="525" w="164" h="54" measuredW="88" measuredH="27" zOrder="5" locked="false" isInGroup="216">
+          <controlProperties>
+            <menuIcon>false</menuIcon>
+            <size>16</size>
+            <text>Card%E1pio</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::IconLabel" x="476" y="767" w="50" h="-1" measuredW="44" measuredH="39" zOrder="6" locked="false" isInGroup="216">
+          <controlProperties>
+            <icon>HandPointIcon%7Csmall</icon>
+            <text>Gar%E7on</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::IconLabel" x="74" y="767" w="-1" h="-1" measuredW="150" measuredH="39" zOrder="7" locked="false" isInGroup="216">
+          <controlProperties>
+            <icon>PhoneDialIcon%7Csmall</icon>
+            <text>Chamada%20de%20emerg%EAncia</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,131 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1426" measuredH="500" mockupW="1395" mockupH="500">
+  <controls>
+    <control controlID="88" controlTypeID="__group__" x="31" y="0" w="690" h="500" measuredW="690" measuredH="500" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="690" h="500" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="88">
+          <controlProperties>
+            <text>S%20ZONE%0Ahttp%3A//</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::MenuBar" x="40" y="135" w="609" h="29" measuredW="320" measuredH="29" zOrder="1" locked="false" isInGroup="88">
+          <controlProperties>
+            <text>Excluir%2C%20Detalhes%2C%20Cancelar%2C%20Pedido%20avulso</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::DataGrid" x="40" y="168" w="611" h="211" measuredW="378" measuredH="201" zOrder="2" locked="false" isInGroup="88">
+          <controlProperties>
+            <text>N%BA%20Pedido%20%5E%2C%20Comanda%20%5Ev%2C%20Mesa%2C%20%20Token%20v%2C%20Status%0A%231231123%2C%20%2313123442%2C%2001%2C%201.2%2C%20Entregue%20%0A%231231123%2C%20%2313123442%2C%2001%2C%201.2%2C%20Conclu%EDdo%20%0A%231231123%2C%20%2313123442%2C%2001%2C%201.3%2C%20Em%20andamento%20%0A%231231123%2C%20%2313123442%2C%2001%2C%201.4%2C%20Em%20andamento%20%0A%231231123%2C%20%2313123442%2C%2005%2C%205.1%2C%20Em%20andamento%20%0A%231231123%2C%20%2313123442%2C%2006%2C%206.3%2C%20Em%20andamento%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::TextInput" x="40" y="384" w="109" h="-1" measuredW="74" measuredH="27" zOrder="3" locked="false" isInGroup="88">
+          <controlProperties>
+            <state>focused</state>
+            <text>Pesquisar</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::SubTitle" x="212" y="93" w="-1" h="-1" measuredW="201" measuredH="27" zOrder="4" locked="false" isInGroup="88">
+          <controlProperties>
+            <text>Gerenciar%20Pedidos</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="736" y="0" w="690" h="500" measuredW="450" measuredH="400" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>S%20ZONE%0Ahttp%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::SubTitle" x="948" y="93" w="-1" h="-1" measuredW="210" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Novo%20pedido%20avulso</text>
+      </controlProperties>
+    </control>
+    <control controlID="107" controlTypeID="com.balsamiq.mockups::Button" x="1098" y="418" w="-1" h="-1" measuredW="60" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Salvar</text>
+      </controlProperties>
+    </control>
+    <control controlID="108" controlTypeID="com.balsamiq.mockups::Button" x="1190" y="418" w="-1" h="-1" measuredW="77" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cancelar</text>
+      </controlProperties>
+    </control>
+    <control controlID="112" controlTypeID="__group__" x="840" y="135" w="427" h="270" measuredW="427" measuredH="270" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="0" y="0" w="427" h="270" measuredW="200" measuredH="242" zOrder="0" locked="false" isInGroup="112">
+          <controlProperties>
+            <text>Sandu%EDches%0ABebidas%0APizzas%0ARefei%E7%F5es%0AA%20moda%20da%20Casa%0AIguarias</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="122" y="31" w="290" h="202" measuredW="231" measuredH="171" zOrder="1" locked="false" isInGroup="112">
+          <controlProperties>
+            <size>13</size>
+            <text>%5B%20%5D%20Portuguesa%20%09%09%20%20%20%20%20%3D%20%241%2C10%0A%5Bx%5D%20Mussarela%09%09%20%20%20%20%20%3D%20%241%2C10%20%0A%5B%20%5D%20Flango%20com%20catupili%20%09%20%20%20%20%20%3D%20%241%2C10%0A%5Bx%5D%20Romeu%20e%20Julieta%20%09%20%20%20%20%20%3D%20%241%2C10%0A%5B%20%5D%20Chocolate%20com%20pimenta%20%09%20%20%20%20%20%3D%20%241%2C10%0A%5Bx%5D%20Americano%20%09%09%20%20%20%20%20%3D%20%241%2C10%0A%5B%20%5D%20Integral%20%09%09%20%20%20%20%20%3D%20%241%2C10%0A%5Bx%5D%20Mix%20Argentino%20%09%09%20%20%20%20%20%3D%20%241%2C10</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::SubTitle" x="191" y="10" w="132" h="-1" measuredW="50" measuredH="19" zOrder="2" locked="false" isInGroup="112">
+          <controlProperties>
+            <align>center</align>
+            <size>16</size>
+            <text>Pizzas</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::SubTitle" x="295" y="251" w="132" h="-1" measuredW="102" measuredH="19" zOrder="3" locked="false" isInGroup="112">
+          <controlProperties>
+            <align>center</align>
+            <size>16</size>
+            <text>Total%20%3D%20%244%2C40</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::NumericStepper" x="376" y="32" w="36" h="-1" measuredW="37" measuredH="19" zOrder="4" locked="false" isInGroup="112">
+          <controlProperties>
+            <size>8</size>
+            <text>1</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::NumericStepper" x="376" y="54" w="36" h="-1" measuredW="37" measuredH="19" zOrder="5" locked="false" isInGroup="112">
+          <controlProperties>
+            <size>8</size>
+            <text>1</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::NumericStepper" x="376" y="76" w="36" h="-1" measuredW="37" measuredH="19" zOrder="6" locked="false" isInGroup="112">
+          <controlProperties>
+            <size>8</size>
+            <text>1</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::NumericStepper" x="376" y="98" w="36" h="-1" measuredW="37" measuredH="19" zOrder="7" locked="false" isInGroup="112">
+          <controlProperties>
+            <size>8</size>
+            <text>1</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::NumericStepper" x="376" y="120" w="36" h="-1" measuredW="37" measuredH="19" zOrder="8" locked="false" isInGroup="112">
+          <controlProperties>
+            <size>8</size>
+            <text>1</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::NumericStepper" x="376" y="142" w="36" h="-1" measuredW="37" measuredH="19" zOrder="9" locked="false" isInGroup="112">
+          <controlProperties>
+            <size>8</size>
+            <text>1</text>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::NumericStepper" x="376" y="164" w="36" h="-1" measuredW="37" measuredH="19" zOrder="10" locked="false" isInGroup="112">
+          <controlProperties>
+            <size>8</size>
+            <text>1</text>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::NumericStepper" x="376" y="186" w="36" h="-1" measuredW="37" measuredH="19" zOrder="11" locked="false" isInGroup="112">
+          <controlProperties>
+            <size>8</size>
+            <text>1</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
