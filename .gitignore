@@ -30,6 +30,18 @@ local.properties
 .settings/
 .loadpath
 
+# Windows thumbnail db
+Thumbs.db
+
+# OSX files
+.DS_Store
+
+# Android Studio
+.idea
+#.idea/workspace.xml - remove # and delete .idea if it better suit your needs.
+.gradle
+build/
+
 # External tool builders
 .externalToolBuilders/
 
@@ -41,9 +53,5 @@ local.properties
 
 # PDT-specific
 .buildpath
-
-# Astah
-*.db
-
 
 /.*~
